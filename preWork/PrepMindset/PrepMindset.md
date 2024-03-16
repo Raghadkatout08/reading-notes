@@ -25,7 +25,7 @@
 
 - After doing the Emotional Intelligence survey, I learned a lot about how I handle my feelings. It showed me where I'm strong and where I can improve. One thing I realized is how important it is to understand others' emotions, especially empathy, and to be aware of my own emotions and how they affect my actions. 🧠
 
-6. [**Assessing Biases:**] (https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.html)
+6. [**Assessing Biases:**](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.html)
 
 - The Bias Self-Assessment survey helped me see my unconscious biases and how they might impact how I treat others. It's eye-opening to realize where I might have prejudices without even realizing it. I now know it's important to acknowledge these biases and work on changing them, rather than pretending they don't exist. It's a reminder that creating a fair and inclusive environment takes effort and self-awareness. 👁️‍🗨️
 
