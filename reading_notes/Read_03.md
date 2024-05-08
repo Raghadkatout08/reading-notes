@@ -73,8 +73,6 @@ Big O notation is a mathematical notation used to describe the limiting behavior
 - **Usage**: Big O notation enables comparison and analysis of algorithm efficiency independent of hardware or specific implementation details.
 
 
-In terms of order, it can be represented as:
-
 # Big O Notation Hierarchy
 
 In terms of order, Big O Notation Hierarchy can be represented as:
