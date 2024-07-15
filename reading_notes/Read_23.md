@@ -1,4 +1,4 @@
-### SQL vs. NoSQL Databases: What's the Difference?
+## SQL vs. NoSQL Databases: What's the Difference?
 
 **SQL Databases:**
 SQL databases (e.g., PostgreSQL, MySQL, SQLite) organize data into structured tables with predefined schemas. Each table consists of rows and columns where each row represents a record, and each column represents a specific attribute of that record. Relationships between tables are established using foreign keys, ensuring data integrity and enabling complex querying through SQL queries.
